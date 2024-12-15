@@ -33,6 +33,8 @@ import static at.ac.fhcampuswien.snake.util.Constants.*;
 
 public class GameBoard {
 
+    //www
+
     private final static Logger LOG = LoggerFactory.getLogger(GameBoard.class);
 
     private final GraphicsContext gc;

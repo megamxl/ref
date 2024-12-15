@@ -11,6 +11,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.*;
 
 public class GameViewController {
 
+
     protected Stage stage = null;
 
     @FXML

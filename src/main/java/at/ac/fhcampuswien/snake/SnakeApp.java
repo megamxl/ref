@@ -7,6 +7,7 @@ import java.io.IOException;
 
 public class SnakeApp extends Application {
 
+
     @Override
     public void start(Stage stage) throws IOException {
         StateManager.initializeStage(stage);

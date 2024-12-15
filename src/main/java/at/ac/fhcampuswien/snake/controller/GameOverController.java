@@ -10,6 +10,7 @@ import java.io.IOException;
 
 public class GameOverController {
 
+
     @FXML
     private Text scoreTextField;
 

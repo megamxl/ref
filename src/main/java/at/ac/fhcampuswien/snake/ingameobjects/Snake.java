@@ -10,6 +10,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.*;
 
 public class Snake {
 
+
     private int length;
     private boolean positionUpdated;
     private boolean isAlive;

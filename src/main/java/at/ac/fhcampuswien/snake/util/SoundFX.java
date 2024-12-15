@@ -7,6 +7,7 @@ import java.util.Objects;
 
 public class SoundFX {
 
+
     private final static String INTRO_SOUND = "/sounds/game-intro.wav";
     private final static String BONUS_POINT_SOUND = "/sounds/bonus-point.wav";
     private final static String EATING_SOUND = "/sounds/eat.mp3";

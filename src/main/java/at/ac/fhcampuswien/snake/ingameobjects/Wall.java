@@ -7,6 +7,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.OBJECT_SIZE_MEDIUM;
 
 public class Wall {
 
+
     private final List<Position> segments = new ArrayList<>();
 
     /**

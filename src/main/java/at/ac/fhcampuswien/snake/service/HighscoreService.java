@@ -17,6 +17,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.HIGHSCORE_SEPARATOR;
  */
 public class HighscoreService {
 
+
     private final static Logger LOG = LoggerFactory.getLogger(HighscoreService.class);
 
     /**

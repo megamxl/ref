@@ -14,6 +14,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.*;
 public class ScoreBoard {
     private final GraphicsContext gc;
 
+
     public ScoreBoard(Canvas scoreBoardCanvas) {
         this.gc = scoreBoardCanvas.getGraphicsContext2D();
     }

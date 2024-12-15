@@ -11,6 +11,7 @@ import javafx.stage.Stage;
 
 public class HighscoreController {
 
+
     public ImageView logo;
 
     @FXML

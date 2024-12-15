@@ -7,6 +7,7 @@ import java.util.Objects;
 
 public class Food {
 
+
     private final Position position;
 
     private String foodType;

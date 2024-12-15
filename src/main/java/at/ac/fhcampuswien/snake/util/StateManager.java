@@ -22,6 +22,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.*;
  * This class is responsible for switching between the different views and managing the gameBoard state.
  */
 public class StateManager {
+
     private static Stage stage = null;
 
     public static Difficulty difficulty = Difficulty.MEDIUM;

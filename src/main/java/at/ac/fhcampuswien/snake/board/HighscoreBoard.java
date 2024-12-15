@@ -19,6 +19,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.HIGHSCORE_BOARD_SCORE_COL_
 
 public class HighscoreBoard {
 
+
     public HighscoreBoard(VBox vBox) {
         TableView<Player> table = new TableView<>();
         vBox.setMaxHeight(HIGHSCORE_BOARD_HEIGHT);
